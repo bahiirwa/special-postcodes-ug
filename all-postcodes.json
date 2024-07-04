@@ -1,0 +1,1814 @@
+{
+  "kampala_100": [
+    {
+      "area": "State House",
+      "postcode": 10000
+    },
+    {
+      "area": "Parliament Uganda",
+      "postcode": 10001
+    },
+    {
+      "area": "Office of the President",
+      "postcode": 10002
+    },
+    {
+      "area": "Office of the Prime Minister",
+      "postcode": 10003
+    },
+    {
+      "area": "High Court",
+      "postcode": 10004
+    },
+    {
+      "area": "Kampala Capital City Authority",
+      "postcode": 10005
+    },
+    {
+      "area": "Central Division",
+      "postcode": 10006
+    },
+    {
+      "area": "Nakivubo War Memorial Stadium",
+      "postcode": 10007
+    },
+    {
+      "area": "National Museum",
+      "postcode": 10008
+    },
+    {
+      "area": "Uganda National Mosque",
+      "postcode": 10009
+    },
+    {
+      "area": "Independence Monument",
+      "postcode": 10010
+    },
+    {
+      "area": "National Theatre",
+      "postcode": 10011
+    },
+    {
+      "area": "City Square",
+      "postcode": 10012
+    },
+    {
+      "area": "Central Police Station",
+      "postcode": 10013
+    },
+    {
+      "area": "Sheraton Hotel",
+      "postcode": 10014
+    },
+    {
+      "area": "Serena Hotel",
+      "postcode": 10015
+    },
+    {
+      "area": "Uganda Book Shop",
+      "postcode": 10016
+    },
+    {
+      "area": "Kampala Railway Station",
+      "postcode": 10017
+    },
+    {
+      "area": "Clock Tower",
+      "postcode": 10018
+    },
+    {
+      "area": "Golf Course",
+      "postcode": 10019
+    },
+    {
+      "area": "Kololo Airstrip",
+      "postcode": 10020
+    },
+    {
+      "area": "Centenary Park",
+      "postcode": 10021
+    },
+    {
+      "area": "Kawempe Division",
+      "postcode": 10022
+    },
+    {
+      "area": "Mulago Hospital",
+      "postcode": 10023
+    },
+    {
+      "area": "Baha'i Temple",
+      "postcode": 10024
+    },
+    {
+      "area": "Nakawa Division",
+      "postcode": 10025
+    },
+    {
+      "area": "Luzira Prison",
+      "postcode": 10026
+    },
+    {
+      "area": "Port Bell",
+      "postcode": 10027
+    },
+    {
+      "area": "Butabika Hospital",
+      "postcode": 10028
+    },
+    {
+      "area": "Uganda Police Headquarters",
+      "postcode": 10029
+    },
+    {
+      "area": "Kyambogo University",
+      "postcode": 10030
+    },
+    {
+      "area": "Lugogo Indoor Stadium",
+      "postcode": 10031
+    },
+    {
+      "area": "Uganda Manufacturers' Association",
+      "postcode": 10032
+    },
+    {
+      "area": "Banda Palace",
+      "postcode": 10033
+    },
+    {
+      "area": "Makindye Division",
+      "postcode": 10034
+    },
+    {
+      "area": "Nsambya Hospital",
+      "postcode": 10035
+    },
+    {
+      "area": "Kibuli Mosque",
+      "postcode": 10036
+    },
+    {
+      "area": "Speke Hotel Munyonyo",
+      "postcode": 10037
+    },
+    {
+      "area": "Military Police Barracks",
+      "postcode": 10038
+    },
+    {
+      "area": "Mulungo Catholic Shrine",
+      "postcode": 10039
+    },
+    {
+      "area": "Rubaga Division",
+      "postcode": 10040
+    },
+    {
+      "area": "Rubaga Hospital",
+      "postcode": 10041
+    },
+    {
+      "area": "Mengo Hospital",
+      "postcode": 10042
+    },
+    {
+      "area": "Kasubi Royal Tombs",
+      "postcode": 10043
+    },
+    {
+      "area": "Rubaga Cathedral",
+      "postcode": 10044
+    },
+    {
+      "area": "Namirembe Cathedral",
+      "postcode": 10045
+    },
+    {
+      "area": "Bulange",
+      "postcode": 10046
+    },
+    {
+      "area": "Kabaka's Palace",
+      "postcode": 10047
+    },
+    {
+      "area": "Kabaka's Lake",
+      "postcode": 10048
+    }
+  ],
+  "eastern_uganda_200": [
+    {
+      "area": "Jinja District Headquarters",
+      "postcode": 20000
+    },
+    {
+      "area": "Jinja Municipal Council",
+      "postcode": 20001
+    },
+    {
+      "area": "Kiira Dam",
+      "postcode": 20002
+    },
+    {
+      "area": "Kiira Bridge",
+      "postcode": 20003
+    },
+    {
+      "area": "Bujagaali Dam",
+      "postcode": 20004
+    },
+    {
+      "area": "Source of the Nile",
+      "postcode": 20005
+    },
+    {
+      "area": "Itanda Falls",
+      "postcode": 20006
+    },
+    {
+      "area": "Masese Landing Site",
+      "postcode": 20007
+    },
+    {
+      "area": "Bugembe Stadium",
+      "postcode": 20008
+    },
+    {
+      "area": "Gaddafi Barracks",
+      "postcode": 20009
+    },
+    {
+      "area": "Kimaka Air field",
+      "postcode": 20010
+    },
+    {
+      "area": "Nakabango Palace",
+      "postcode": 20011
+    },
+    {
+      "area": "Jinja Cathedral",
+      "postcode": 20012
+    },
+    {
+      "area": "Kakira Sugar Works",
+      "postcode": 20013
+    },
+    {
+      "area": "Jinja Referral Hospital",
+      "postcode": 20014
+    },
+    {
+      "area": "Jinja Golf Course",
+      "postcode": 20015
+    },
+    {
+      "area": "Civil Service College",
+      "postcode": 20016
+    },
+    {
+      "area": "Kakindu Stadium",
+      "postcode": 20017
+    },
+    {
+      "area": "Kamuli District Headquarters",
+      "postcode": 20018
+    },
+    {
+      "area": "Kamuli Municipal Council",
+      "postcode": 20019
+    },
+    {
+      "area": "Busitema University Namasagali Campus",
+      "postcode": 20020
+    },
+    {
+      "area": "Kamuli Sugar Factory",
+      "postcode": 20021
+    },
+    {
+      "area": "Buyende District Headquarters",
+      "postcode": 20022
+    },
+    {
+      "area": "Kagulu Hills",
+      "postcode": 20023
+    },
+    {
+      "area": "Kakkoge- Kikaaya Landing Site",
+      "postcode": 20024
+    },
+    {
+      "area": "Kasozi Landing Site",
+      "postcode": 20025
+    },
+    {
+      "area": "Kaliro District Headquarters",
+      "postcode": 20026
+    },
+    {
+      "area": "Kaliro Sugar Factory",
+      "postcode": 20027
+    },
+    {
+      "area": "Kaliro NTC",
+      "postcode": 20028
+    },
+    {
+      "area": "Buguge Historical Site",
+      "postcode": 20029
+    },
+    {
+      "area": "Zibondo's Palace",
+      "postcode": 20030
+    },
+    {
+      "area": "Pallisa District Headquarters",
+      "postcode": 20031
+    },
+    {
+      "area": "Tirinyi Bridge",
+      "postcode": 20032
+    },
+    {
+      "area": "Butebo District Headquarters",
+      "postcode": 20033
+    },
+    {
+      "area": "Kibuku District Headquarters",
+      "postcode": 20034
+    },
+    {
+      "area": "Budaka District Headquarters",
+      "postcode": 20035
+    },
+    {
+      "area": "Kamonkoli Uganda Clay Limited",
+      "postcode": 20036
+    },
+    {
+      "area": "Mbale District Headquarters",
+      "postcode": 20037
+    },
+    {
+      "area": "Mbale Municipal Council",
+      "postcode": 20038
+    },
+    {
+      "area": "Mbale Referral Hospital",
+      "postcode": 20039
+    },
+    {
+      "area": "Islamic University in Uganda",
+      "postcode": 20040
+    },
+    {
+      "area": "Maluku Prisons",
+      "postcode": 20041
+    },
+    {
+      "area": "Wanale Hill",
+      "postcode": 20042
+    },
+    {
+      "area": "Mbale Resort Hotel",
+      "postcode": 20043
+    },
+    {
+      "area": "Mt Elgon National Park",
+      "postcode": 20044
+    },
+    {
+      "area": "Wanale Forest Reserve",
+      "postcode": 20045
+    },
+    {
+      "area": "Bufumbo Forest Reserve",
+      "postcode": 20046
+    },
+    {
+      "area": "Semei Kakungulu Tombs",
+      "postcode": 20047
+    },
+    {
+      "area": "Sisi Falls",
+      "postcode": 20048
+    },
+    {
+      "area": "Simu Falls",
+      "postcode": 20049
+    },
+    {
+      "area": "Mbale Cathedral",
+      "postcode": 20050
+    },
+    {
+      "area": "Sironko District Headquarters",
+      "postcode": 20051
+    },
+    {
+      "area": "Bududda District Headquarters",
+      "postcode": 20052
+    },
+    {
+      "area": "Namisindwa District Headquarters",
+      "postcode": 20053
+    },
+    {
+      "area": "Lwakhakha Border Point",
+      "postcode": 20054
+    },
+    {
+      "area": "Manafwa District Headquarters",
+      "postcode": 20055
+    },
+    {
+      "area": "Manafwa Bridge",
+      "postcode": 20056
+    },
+    {
+      "area": "Tororo District Headquarters",
+      "postcode": 20057
+    },
+    {
+      "area": "Tororo Municipal Council",
+      "postcode": 20058
+    },
+    {
+      "area": "Tororo Cement Factory",
+      "postcode": 20059
+    },
+    {
+      "area": "Tororo Rock",
+      "postcode": 20060
+    },
+    {
+      "area": "Osukulu Hills",
+      "postcode": 20061
+    },
+    {
+      "area": "Golf Course",
+      "postcode": 20062
+    },
+    {
+      "area": "Rubongi Barracks",
+      "postcode": 20063
+    },
+    {
+      "area": "Tororo Railway Station",
+      "postcode": 20064
+    },
+    {
+      "area": "Hima Cement Factory",
+      "postcode": 20065
+    },
+    {
+      "area": "Malaba Border Point",
+      "postcode": 20066
+    },
+    {
+      "area": "Rock Hotel",
+      "postcode": 20067
+    },
+    {
+      "area": "Roman Catholic Archdiocese of Tororo",
+      "postcode": 20068
+    },
+    {
+      "area": "King George VI Stadium",
+      "postcode": 20069
+    },
+    {
+      "area": "Tororo General Hospital",
+      "postcode": 20070
+    },
+    {
+      "area": "Busia District Headquarters",
+      "postcode": 20071
+    },
+    {
+      "area": "Busia Border Point",
+      "postcode": 20072
+    },
+    {
+      "area": "Busitema University",
+      "postcode": 20073
+    },
+    {
+      "area": "Busitema Forest",
+      "postcode": 20074
+    },
+    {
+      "area": "Namayingo District Headquarters",
+      "postcode": 20075
+    },
+    {
+      "area": "Matiko Landing Site",
+      "postcode": 20076
+    },
+    {
+      "area": "Mayuge District Headquarters",
+      "postcode": 20077
+    },
+    {
+      "area": "Mayuge Sugar Factory",
+      "postcode": 20078
+    },
+    {
+      "area": "Bufulubi Prisons",
+      "postcode": 20079
+    },
+    {
+      "area": "Buluuba Hospital",
+      "postcode": 20080
+    },
+    {
+      "area": "Bwonha Landing Site",
+      "postcode": 20081
+    },
+    {
+      "area": "Bishop Hannington Shrine",
+      "postcode": 20082
+    },
+    {
+      "area": "Presidential Farm Kityerera",
+      "postcode": 20083
+    },
+    {
+      "area": "Bugiri District Headquarters",
+      "postcode": 20084
+    },
+    {
+      "area": "Bugiri Municipal Council",
+      "postcode": 20085
+    },
+    {
+      "area": "Bugiri Hospital",
+      "postcode": 20086
+    },
+    {
+      "area": "Kibimba Rice Scheme",
+      "postcode": 20087
+    },
+    {
+      "area": "Iganga District Headquarters",
+      "postcode": 20088
+    },
+    {
+      "area": "Iganga Municipal Council",
+      "postcode": 20089
+    },
+    {
+      "area": "Iganga Hospital Nakavule",
+      "postcode": 20090
+    },
+    {
+      "area": "Busoga University",
+      "postcode": 20091
+    },
+    {
+      "area": "Central Busoga Diocese",
+      "postcode": 20092
+    },
+    {
+      "area": "Bugweri District Headquarters",
+      "postcode": 20093
+    },
+    {
+      "area": "Luuka District Headquarters",
+      "postcode": 20094
+    },
+    {
+      "area": "Namutumba District Headquarters",
+      "postcode": 20095
+    },
+    {
+      "area": "Butaleja District Headquarters",
+      "postcode": 20096
+    },
+    {
+      "area": "Doho Rice Scheme",
+      "postcode": 20097
+    },
+    {
+      "area": "Mpologoma River Bridge",
+      "postcode": 20098
+    },
+    {
+      "area": "Busolwe Hospital",
+      "postcode": 20099
+    }
+  ],
+  "central_uganda_300": [
+    {
+      "area": "State House",
+      "postcode": 30000
+    },
+    {
+      "area": "Entebbe Municipal Council",
+      "postcode": 30001
+    },
+    {
+      "area": "Entebbe International Airport",
+      "postcode": 30002
+    },
+    {
+      "area": "Entebbe Wild life Educational Centre",
+      "postcode": 30003
+    },
+    {
+      "area": "Entebbe Botanical Gardens",
+      "postcode": 30004
+    },
+    {
+      "area": "Mapeera Kigungu Church",
+      "postcode": 30005
+    },
+    {
+      "area": "Nakiwogo Landing Site",
+      "postcode": 30006
+    },
+    {
+      "area": "Entebbe Golf Course",
+      "postcode": 30007
+    },
+    {
+      "area": "Lake Victoria Hotel",
+      "postcode": 30008
+    },
+    {
+      "area": "Entebbe Grade B Hospital",
+      "postcode": 30009
+    },
+    {
+      "area": "Entebbe UN logistics Base",
+      "postcode": 30010
+    },
+    {
+      "area": "Old Airport",
+      "postcode": 30011
+    },
+    {
+      "area": "Air force Base",
+      "postcode": 30012
+    },
+    {
+      "area": "Hippo Bay Cave",
+      "postcode": 30013
+    },
+    {
+      "area": "Nkumba University",
+      "postcode": 30014
+    },
+    {
+      "area": "St Marys Stadium",
+      "postcode": 30015
+    },
+    {
+      "area": "Ziika Forest",
+      "postcode": 30016
+    },
+    {
+      "area": "Lutembe Bay",
+      "postcode": 30017
+    },
+    {
+      "area": "Kajjansi Airstrip",
+      "postcode": 30018
+    },
+    {
+      "area": "Namugongo Martyrs Shrine",
+      "postcode": 30019
+    },
+    {
+      "area": "Mandela National Stadium",
+      "postcode": 30020
+    },
+    {
+      "area": "Kireka Palace",
+      "postcode": 30021
+    },
+    {
+      "area": "Wakiso District Headquarters",
+      "postcode": 30022
+    },
+    {
+      "area": "Kawanda Research Institute",
+      "postcode": 30023
+    },
+    {
+      "area": "Makarere University Agricultural Research Centre Kabanyoro",
+      "postcode": 30024
+    },
+    {
+      "area": "Naggalabi –Buddo Coronation Site",
+      "postcode": 30025
+    },
+    {
+      "area": "Mityana District Headquarters",
+      "postcode": 30026
+    },
+    {
+      "area": "Kassanda District Headquarters",
+      "postcode": 30027
+    },
+    {
+      "area": "Mubende District Headquarters",
+      "postcode": 30028
+    },
+    {
+      "area": "Bigo Bya Mugenyi",
+      "postcode": 30029
+    },
+    {
+      "area": "Mubende National Teachers College",
+      "postcode": 30030
+    },
+    {
+      "area": "Kyaka Refugee Camp",
+      "postcode": 30031
+    },
+    {
+      "area": "Kiboga District Headquarters",
+      "postcode": 30032
+    },
+    {
+      "area": "Kyankwanzi District Headquarters",
+      "postcode": 30033
+    },
+    {
+      "area": "National Leadership Institute",
+      "postcode": 30034
+    },
+    {
+      "area": "Nakaseke District Headquarters",
+      "postcode": 30035
+    },
+    {
+      "area": "Nakasongola District Headquarters",
+      "postcode": 30036
+    },
+    {
+      "area": "Army Factory",
+      "postcode": 30037
+    },
+    {
+      "area": "Ziiwa Rhino Sanctuary",
+      "postcode": 30038
+    },
+    {
+      "area": "Air Force Base",
+      "postcode": 30039
+    },
+    {
+      "area": "Luweero District Headquarters",
+      "postcode": 30040
+    },
+    {
+      "area": "Bombo Army Headquarters",
+      "postcode": 30041
+    },
+    {
+      "area": "Ndejje University",
+      "postcode": 30042
+    },
+    {
+      "area": "Bugema University",
+      "postcode": 30043
+    },
+    {
+      "area": "Busiika Rally Circuit",
+      "postcode": 30044
+    },
+    {
+      "area": "Kayunga District Headquarters",
+      "postcode": 30045
+    },
+    {
+      "area": "Buikwe District Headquarters",
+      "postcode": 30046
+    },
+    {
+      "area": "Ssezibwa Falls",
+      "postcode": 30047
+    },
+    {
+      "area": "Nalubaale Dam",
+      "postcode": 30048
+    },
+    {
+      "area": "Mabira Forest",
+      "postcode": 30049
+    },
+    {
+      "area": "Nile Breweries",
+      "postcode": 30050
+    },
+    {
+      "area": "Njeru Municipal Headquarters",
+      "postcode": 30051
+    },
+    {
+      "area": "Kawolo Hospital",
+      "postcode": 30052
+    },
+    {
+      "area": "Buvuma District Headquarters",
+      "postcode": 30053
+    },
+    {
+      "area": "Mukono District Headquarters",
+      "postcode": 30054
+    },
+    {
+      "area": "Mukono Municipal Council",
+      "postcode": 30055
+    },
+    {
+      "area": "Uganda Christian University",
+      "postcode": 30056
+    },
+    {
+      "area": "Mpoma Earth Station",
+      "postcode": 30057
+    },
+    {
+      "area": "Colline Hotel",
+      "postcode": 30058
+    },
+    {
+      "area": "Namanve Industrial Park",
+      "postcode": 30059
+    },
+    {
+      "area": "Kalangala District Headquarters",
+      "postcode": 30060
+    },
+    {
+      "area": "Kalangala Landing Site",
+      "postcode": 30061
+    },
+    {
+      "area": "Mulowooza Hotel",
+      "postcode": 30062
+    },
+    {
+      "area": "Mpigi District Headquarters",
+      "postcode": 30063
+    },
+    {
+      "area": "Nkozi University",
+      "postcode": 30064
+    },
+    {
+      "area": "Nkozi Hospital",
+      "postcode": 30065
+    },
+    {
+      "area": "Equator Kayabwe",
+      "postcode": 30066
+    },
+    {
+      "area": "Butambala District Headquarters",
+      "postcode": 30067
+    },
+    {
+      "area": "Kalungu District Headquarters",
+      "postcode": 30068
+    },
+    {
+      "area": "Lwera Swamp",
+      "postcode": 30069
+    },
+    {
+      "area": "Masaka District Headquarters",
+      "postcode": 30070
+    },
+    {
+      "area": "Masaka Municipal Council",
+      "postcode": 30071
+    },
+    {
+      "area": "Masaka Referral Hospital",
+      "postcode": 30072
+    },
+    {
+      "area": "Muteesa 1 University",
+      "postcode": 30073
+    },
+    {
+      "area": "Masaka Mechanised Battalion",
+      "postcode": 30074
+    },
+    {
+      "area": "Bukakata Landing Site",
+      "postcode": 30075
+    },
+    {
+      "area": "Kyotera District Headquarters",
+      "postcode": 30076
+    },
+    {
+      "area": "Kasensero Landing Site",
+      "postcode": 30077
+    },
+    {
+      "area": "Rakai District Headquarters",
+      "postcode": 30078
+    },
+    {
+      "area": "Kamuswaaga Palace",
+      "postcode": 30079
+    },
+    {
+      "area": "Mutukula Border Post",
+      "postcode": 30080
+    },
+    {
+      "area": "Lwengo District Headquarters",
+      "postcode": 30081
+    },
+    {
+      "area": "Lyantonde District Headquarters",
+      "postcode": 30082
+    },
+    {
+      "area": "Bukomansimbi District Headquarters",
+      "postcode": 30083
+    },
+    {
+      "area": "Villa Maria",
+      "postcode": 30084
+    },
+    {
+      "area": "Sembabule District Headquarters",
+      "postcode": 30085
+    },
+    {
+      "area": "Gomba District Headquarters",
+      "postcode": 30086
+    },
+    {
+      "area": "Kisozi Farm",
+      "postcode": 30087
+    }
+  ],
+  "western_uganda_400": [
+    {
+      "area": "Kiruhura District Headquarters",
+      "postcode": 40000
+    },
+    {
+      "area": "Isingiro District Headquarters",
+      "postcode": 40001
+    },
+    {
+      "area": "Nakivale Refugee Camp",
+      "postcode": 40002
+    },
+    {
+      "area": "Mbarara District Headquarters",
+      "postcode": 40003
+    },
+    {
+      "area": "Mbarara Municipal Council",
+      "postcode": 40004
+    },
+    {
+      "area": "Mbarara Regional Referral Hospital",
+      "postcode": 40005
+    },
+    {
+      "area": "Mbarara University of Science and Technology",
+      "postcode": 40006
+    },
+    {
+      "area": "Military Barracks",
+      "postcode": 40007
+    },
+    {
+      "area": "Kakyeka Stadium",
+      "postcode": 40008
+    },
+    {
+      "area": "Mbarara Coca Cola Factory",
+      "postcode": 40009
+    },
+    {
+      "area": "Bishop Stuart University",
+      "postcode": 40010
+    },
+    {
+      "area": "Mugaba Palace",
+      "postcode": 40011
+    },
+    {
+      "area": "Lake View Hotel",
+      "postcode": 40012
+    },
+    {
+      "area": "Agip Motel",
+      "postcode": 40013
+    },
+    {
+      "area": "Nyamitanga Cathedral",
+      "postcode": 40014
+    },
+    {
+      "area": "Ntugamo District Headquarters",
+      "postcode": 40015
+    },
+    {
+      "area": "Ntugamo Municipal Council",
+      "postcode": 40016
+    },
+    {
+      "area": "Kyafoora Off Springs",
+      "postcode": 40017
+    },
+    {
+      "area": "Nyagatare Border Post",
+      "postcode": 40018
+    },
+    {
+      "area": "Rukiga District Headquarters",
+      "postcode": 40019
+    },
+    {
+      "area": "Kabaale District Headquarters",
+      "postcode": 40020
+    },
+    {
+      "area": "Kabaale Municipal Council",
+      "postcode": 40021
+    },
+    {
+      "area": "Kabaale University",
+      "postcode": 40022
+    },
+    {
+      "area": "Lake Bunyonyi",
+      "postcode": 40023
+    },
+    {
+      "area": "Katuna Border Post",
+      "postcode": 40024
+    },
+    {
+      "area": "Rubanda District Headquarters",
+      "postcode": 40025
+    },
+    {
+      "area": "Kisoro District Headquarters",
+      "postcode": 40026
+    },
+    {
+      "area": "Kisoro Air Strip",
+      "postcode": 40027
+    },
+    {
+      "area": "Mt. Mufumbiro",
+      "postcode": 40028
+    },
+    {
+      "area": "Bwindi Impenetrable Forest",
+      "postcode": 40029
+    },
+    {
+      "area": "Bunagana Border Post",
+      "postcode": 40030
+    },
+    {
+      "area": "Kanungu District Headquarters",
+      "postcode": 40031
+    },
+    {
+      "area": "Rukungiri District Headquarters",
+      "postcode": 40032
+    },
+    {
+      "area": "Rukungiri Municipal Council",
+      "postcode": 40033
+    },
+    {
+      "area": "Mitooma District Headquarters",
+      "postcode": 40034
+    },
+    {
+      "area": "Bushenyi District Headquarters",
+      "postcode": 40035
+    },
+    {
+      "area": "Bushenyi Municipal Council",
+      "postcode": 40036
+    },
+    {
+      "area": "Kitagata Hot Springs",
+      "postcode": 40037
+    },
+    {
+      "area": "KIU Medical School",
+      "postcode": 40038
+    },
+    {
+      "area": "Rubirizi District Headquarters",
+      "postcode": 40039
+    },
+    {
+      "area": "Ibanda District Headquarters",
+      "postcode": 40040
+    },
+    {
+      "area": "Ibanda Municipal Council",
+      "postcode": 40041
+    },
+    {
+      "area": "Ibanda Airstrip",
+      "postcode": 40042
+    },
+    {
+      "area": "Buhweju District Headquarters",
+      "postcode": 40043
+    },
+    {
+      "area": "Sheema District Headquarters",
+      "postcode": 40044
+    }
+  ],
+  "mid_western_uganda_500": [
+    {
+      "area": "Kyegegwa District Headquarters",
+      "postcode": 50000
+    },
+    {
+      "area": "Kamwenge District Headquarters",
+      "postcode": 50001
+    },
+    {
+      "area": "Kasese District Headquarters",
+      "postcode": 50002
+    },
+    {
+      "area": "Kasese Municipal Council",
+      "postcode": 50003
+    },
+    {
+      "area": "Hima Cement",
+      "postcode": 50004
+    },
+    {
+      "area": "Obusinga Palace",
+      "postcode": 50005
+    },
+    {
+      "area": "Kilembe Copper Mines",
+      "postcode": 50006
+    },
+    {
+      "area": "Lake Katwe",
+      "postcode": 50007
+    },
+    {
+      "area": "Kibale Park",
+      "postcode": 50008
+    },
+    {
+      "area": "Kazinga Channel",
+      "postcode": 50009
+    },
+    {
+      "area": "Bundibugyo District Headquarters",
+      "postcode": 50010
+    },
+    {
+      "area": "Tai Forest",
+      "postcode": 50011
+    },
+    {
+      "area": "Bunyangabu District Headquarters",
+      "postcode": 50012
+    },
+    {
+      "area": "Kabarole District Headquarters",
+      "postcode": 50013
+    },
+    {
+      "area": "Fort Portal Municipal Council",
+      "postcode": 50014
+    },
+    {
+      "area": "Kabaziguruka Palace",
+      "postcode": 50015
+    },
+    {
+      "area": "Mountains of the Moon Hotel",
+      "postcode": 50016
+    },
+    {
+      "area": "Mountains of the Moon University",
+      "postcode": 50017
+    },
+    {
+      "area": "Kyenjojo District Headquarters",
+      "postcode": 50018
+    },
+    {
+      "area": "Toro Royal Cottage",
+      "postcode": 50019
+    },
+    {
+      "area": "Ntoroko District Headquarters",
+      "postcode": 50020
+    },
+    {
+      "area": "Ntoroko Landing Site",
+      "postcode": 50021
+    },
+    {
+      "area": "Kagadi District Headquarters",
+      "postcode": 50022
+    },
+    {
+      "area": "Kibaale District Headquarters",
+      "postcode": 50023
+    },
+    {
+      "area": "Kibaale Forest",
+      "postcode": 50024
+    },
+    {
+      "area": "Kakumiro District Headquarters",
+      "postcode": 50025
+    },
+    {
+      "area": "Hoima District Headquarters",
+      "postcode": 50026
+    },
+    {
+      "area": "Hoima Municipal Council",
+      "postcode": 50027
+    },
+    {
+      "area": "Hoima Airport",
+      "postcode": 50028
+    },
+    {
+      "area": "Hoima Referral Hospital",
+      "postcode": 50029
+    },
+    {
+      "area": "Hoima Resort",
+      "postcode": 50030
+    },
+    {
+      "area": "Omukama’s Palace",
+      "postcode": 50031
+    },
+    {
+      "area": "Booma Grounds",
+      "postcode": 50032
+    },
+    {
+      "area": "Kyangwali Refugee Camp",
+      "postcode": 50033
+    },
+    {
+      "area": "Kikube District Headquarters",
+      "postcode": 50034
+    },
+    {
+      "area": "Buliisa District Headquarters",
+      "postcode": 50035
+    },
+    {
+      "area": "Oil Refinery",
+      "postcode": 50036
+    },
+    {
+      "area": "Masindi District Headquarters",
+      "postcode": 50037
+    },
+    {
+      "area": "Masindi Municipal Council",
+      "postcode": 50038
+    },
+    {
+      "area": "Masindi Port",
+      "postcode": 50039
+    },
+    {
+      "area": "Kinyara Sugar Works",
+      "postcode": 50040
+    },
+    {
+      "area": "Masindi Hotel",
+      "postcode": 50041
+    },
+    {
+      "area": "Kabalye Police Training School",
+      "postcode": 50042
+    },
+    {
+      "area": "Kafu Bridge",
+      "postcode": 50043
+    },
+    {
+      "area": "Kiryandogo District Headquarters",
+      "postcode": 50044
+    },
+    {
+      "area": "Kiryandogo Hospital",
+      "postcode": 50045
+    },
+    {
+      "area": "Karuma Dam",
+      "postcode": 50046
+    }
+  ],
+  "west_nile_600": [
+    {
+      "area": "Pakwach District Headquarters",
+      "postcode": 60000
+    },
+    {
+      "area": "Pakwach Bridge",
+      "postcode": 60001
+    },
+    {
+      "area": "Pakwach Railway Station",
+      "postcode": 60002
+    },
+    {
+      "area": "Nebbi District Headquarters",
+      "postcode": 60003
+    },
+    {
+      "area": "Zombo District Headquarters",
+      "postcode": 60004
+    },
+    {
+      "area": "Arua District Headquarters",
+      "postcode": 60005
+    },
+    {
+      "area": "Arua Municipal Council",
+      "postcode": 60006
+    },
+    {
+      "area": "Arua Airstrip",
+      "postcode": 60007
+    },
+    {
+      "area": "Goli Border Point",
+      "postcode": 60008
+    },
+    {
+      "area": "Green Light Stadium",
+      "postcode": 60009
+    },
+    {
+      "area": "Booma Ground",
+      "postcode": 60010
+    },
+    {
+      "area": "Muni University",
+      "postcode": 60011
+    },
+    {
+      "area": "Golf Course",
+      "postcode": 60012
+    },
+    {
+      "area": "Paciffic Hotels",
+      "postcode": 60013
+    },
+    {
+      "area": "Barifa Forest",
+      "postcode": 60014
+    },
+    {
+      "area": "Ediofe Hills",
+      "postcode": 60015
+    },
+    {
+      "area": "Maracha District Headquarters",
+      "postcode": 60016
+    },
+    {
+      "area": "Koboko District Headquarters",
+      "postcode": 60017
+    },
+    {
+      "area": "Boarder Point",
+      "postcode": 60018
+    },
+    {
+      "area": "Mt Liru",
+      "postcode": 60019
+    },
+    {
+      "area": "Adolomilla Crater Lake",
+      "postcode": 60020
+    },
+    {
+      "area": "Yumbe District Headquarters",
+      "postcode": 60021
+    },
+    {
+      "area": "Moyo District Headquarters",
+      "postcode": 60022
+    },
+    {
+      "area": "Obongi Landing Site",
+      "postcode": 60023
+    },
+    {
+      "area": "Dufile Port",
+      "postcode": 60024
+    },
+    {
+      "area": "Mt. Otze Forest Reserve",
+      "postcode": 60025
+    },
+    {
+      "area": "Kotilo Sacred Forest",
+      "postcode": 60026
+    },
+    {
+      "area": "Adjumani District Headquarters",
+      "postcode": 60027
+    },
+    {
+      "area": "Sinyanya Landing Site",
+      "postcode": 60028
+    }
+  ],
+  "northern_uganda_700": [
+    {
+      "area": "Oyam District Headquarters",
+      "postcode": 70000
+    },
+    {
+      "area": "Omoro District Headquarters",
+      "postcode": 70001
+    },
+    {
+      "area": "Nwoya District Headquarters",
+      "postcode": 70002
+    },
+    {
+      "area": "Murchison Falls National Park",
+      "postcode": 70003
+    },
+    {
+      "area": "Amuru District Headquarters",
+      "postcode": 70004
+    },
+    {
+      "area": "Gulu District Headquarters",
+      "postcode": 70005
+    },
+    {
+      "area": "Gulu Municipal Council",
+      "postcode": 70006
+    },
+    {
+      "area": "Lacor Hospital",
+      "postcode": 70007
+    },
+    {
+      "area": "Gulu University",
+      "postcode": 70008
+    },
+    {
+      "area": "Gulu Referral Hospital",
+      "postcode": 70009
+    },
+    {
+      "area": "Booma Grounds",
+      "postcode": 70010
+    },
+    {
+      "area": "Pece Stadium",
+      "postcode": 70011
+    },
+    {
+      "area": "Fourth Division Headquarters",
+      "postcode": 70012
+    },
+    {
+      "area": "Fort Patico",
+      "postcode": 70013
+    },
+    {
+      "area": "Ajai Forest Reserve",
+      "postcode": 70014
+    },
+    {
+      "area": "Amoro Hot Spring",
+      "postcode": 70015
+    },
+    {
+      "area": "Daniel Comboni Vocational Institute",
+      "postcode": 70016
+    },
+    {
+      "area": "Lamwo District Headquarters",
+      "postcode": 70017
+    },
+    {
+      "area": "Border Crossing",
+      "postcode": 70018
+    },
+    {
+      "area": "Agoro Irrigation Scheme",
+      "postcode": 70019
+    },
+    {
+      "area": "Kitgum District Headquarters",
+      "postcode": 70020
+    },
+    {
+      "area": "Kitgum Municipal Council",
+      "postcode": 70021
+    },
+    {
+      "area": "Panyimoro",
+      "postcode": 70022
+    },
+    {
+      "area": "Pader District Headquarters",
+      "postcode": 70023
+    },
+    {
+      "area": "Agago District Headquarters",
+      "postcode": 70024
+    },
+    {
+      "area": "Aruu Falls",
+      "postcode": 70025
+    },
+    {
+      "area": "Otuke District Headquarters",
+      "postcode": 70026
+    },
+    {
+      "area": "Alebtong District Headquarters",
+      "postcode": 70027
+    },
+    {
+      "area": "Lira District Headquarters",
+      "postcode": 70028
+    },
+    {
+      "area": "Lira Municipal Council",
+      "postcode": 70029
+    },
+    {
+      "area": "Akii-Bua Stadium",
+      "postcode": 70030
+    },
+    {
+      "area": "Lira Hotel",
+      "postcode": 70031
+    },
+    {
+      "area": "Lira Referral Hospital",
+      "postcode": 70032
+    },
+    {
+      "area": "Dokolo District Headquarters",
+      "postcode": 70033
+    },
+    {
+      "area": "Dokolo Hospital",
+      "postcode": 70034
+    },
+    {
+      "area": "Amolatar District Headquarters",
+      "postcode": 70035
+    },
+    {
+      "area": "Apac District Headquarters",
+      "postcode": 70036
+    },
+    {
+      "area": "Kayei Landing Site",
+      "postcode": 70037
+    },
+    {
+      "area": "Kwania District Headquarters",
+      "postcode": 70038
+    },
+    {
+      "area": "Aduku NTC",
+      "postcode": 70039
+    }
+  ],
+  "north_eastern_uganda_800": [
+    {
+      "area": "Kole District Headquarters",
+      "postcode": 80000
+    },
+    {
+      "area": "Bukedea District Headquarters",
+      "postcode": 80001
+    },
+    {
+      "area": "Komuge Rock Art Site",
+      "postcode": 80002
+    },
+    {
+      "area": "Kumi District Headquarters",
+      "postcode": 80003
+    },
+    {
+      "area": "Kumi University",
+      "postcode": 80004
+    },
+    {
+      "area": "Kumi Hospital",
+      "postcode": 80005
+    },
+    {
+      "area": "Ngora District Headquarters",
+      "postcode": 80006
+    },
+    {
+      "area": "Nyero Rocks",
+      "postcode": 80007
+    },
+    {
+      "area": "Serere District Headquarters",
+      "postcode": 80008
+    },
+    {
+      "area": "Kaberamaido District Headquarters",
+      "postcode": 80009
+    },
+    {
+      "area": "Akampala Landing Site",
+      "postcode": 80010
+    },
+    {
+      "area": "Bugoi Landing Site",
+      "postcode": 80011
+    },
+    {
+      "area": "Soroti District Headquarters",
+      "postcode": 80012
+    },
+    {
+      "area": "Soroti Municipal Council",
+      "postcode": 80013
+    },
+    {
+      "area": "Soroti Airport",
+      "postcode": 80014
+    },
+    {
+      "area": "Soroti Flying School",
+      "postcode": 80015
+    },
+    {
+      "area": "Soroti Rock",
+      "postcode": 80016
+    },
+    {
+      "area": "Bugondo Hills",
+      "postcode": 80017
+    },
+    {
+      "area": "Pian Upe Game Reserve",
+      "postcode": 80018
+    },
+    {
+      "area": "Soroti Hospital",
+      "postcode": 80019
+    },
+    {
+      "area": "Awojja Bridge",
+      "postcode": 80020
+    },
+    {
+      "area": "Amuria District Headquarters",
+      "postcode": 80021
+    },
+    {
+      "area": "Obalanga Memorial",
+      "postcode": 80022
+    },
+    {
+      "area": "Kapelabyong District Headquarters",
+      "postcode": 80023
+    },
+    {
+      "area": "Katakwi District Headquarters",
+      "postcode": 80024
+    },
+    {
+      "area": "Napak District Headquarters",
+      "postcode": 80025
+    },
+    {
+      "area": "Napak Hills",
+      "postcode": 80026
+    },
+    {
+      "area": "Napak Game Reserve",
+      "postcode": 80027
+    },
+    {
+      "area": "Abim District Headquarters",
+      "postcode": 80028
+    },
+    {
+      "area": "Kotido District Headquarters",
+      "postcode": 80029
+    },
+    {
+      "area": "Kaboong District Headquarters",
+      "postcode": 80030
+    },
+    {
+      "area": "Kidepo Game Park",
+      "postcode": 80031
+    },
+    {
+      "area": "Moroto District Headquarters",
+      "postcode": 80032
+    },
+    {
+      "area": "Moroto Municipal Council",
+      "postcode": 80033
+    },
+    {
+      "area": "Mt. Moroto",
+      "postcode": 80034
+    },
+    {
+      "area": "Moroto Hotel",
+      "postcode": 80035
+    },
+    {
+      "area": "Matheniko Wild Game Reserve",
+      "postcode": 80036
+    },
+    {
+      "area": "Nabilatuk District Headquarters",
+      "postcode": 80037
+    },
+    {
+      "area": "Nabilatuk Hills",
+      "postcode": 80038
+    },
+    {
+      "area": "Nakapiripirit District Headquarters",
+      "postcode": 80039
+    },
+    {
+      "area": "Amudat District Headquarters",
+      "postcode": 80040
+    },
+    {
+      "area": "Kween District Headquarters",
+      "postcode": 80041
+    },
+    {
+      "area": "Bukwa District Headquarters",
+      "postcode": 80042
+    },
+    {
+      "area": "Suam Border Point",
+      "postcode": 80043
+    },
+    {
+      "area": "Bukwa Fossil Site",
+      "postcode": 80044
+    },
+    {
+      "area": "Kapchorwa District Headquarters",
+      "postcode": 80045
+    },
+    {
+      "area": "Sippi Falls",
+      "postcode": 80046
+    },
+    {
+      "area": "Kiprotich Sports Ground",
+      "postcode": 80047
+    },
+    {
+      "area": "Exploration Centre",
+      "postcode": 80048
+    },
+    {
+      "area": "Bulambuli District Headquarters",
+      "postcode": 80049
+    },
+    {
+      "area": "Sisiyi Falls",
+      "postcode": 80050
+    }
+  ]
+}

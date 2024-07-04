@@ -1,0 +1,404 @@
+{
+  "eastern_uganda_200": [
+    {
+      "area": "Jinja District Headquarters",
+      "postcode": 20000
+    },
+    {
+      "area": "Jinja Municipal Council",
+      "postcode": 20001
+    },
+    {
+      "area": "Kiira Dam",
+      "postcode": 20002
+    },
+    {
+      "area": "Kiira Bridge",
+      "postcode": 20003
+    },
+    {
+      "area": "Bujagaali Dam",
+      "postcode": 20004
+    },
+    {
+      "area": "Source of the Nile",
+      "postcode": 20005
+    },
+    {
+      "area": "Itanda Falls",
+      "postcode": 20006
+    },
+    {
+      "area": "Masese Landing Site",
+      "postcode": 20007
+    },
+    {
+      "area": "Bugembe Stadium",
+      "postcode": 20008
+    },
+    {
+      "area": "Gaddafi Barracks",
+      "postcode": 20009
+    },
+    {
+      "area": "Kimaka Air field",
+      "postcode": 20010
+    },
+    {
+      "area": "Nakabango Palace",
+      "postcode": 20011
+    },
+    {
+      "area": "Jinja Cathedral",
+      "postcode": 20012
+    },
+    {
+      "area": "Kakira Sugar Works",
+      "postcode": 20013
+    },
+    {
+      "area": "Jinja Referral Hospital",
+      "postcode": 20014
+    },
+    {
+      "area": "Jinja Golf Course",
+      "postcode": 20015
+    },
+    {
+      "area": "Civil Service College",
+      "postcode": 20016
+    },
+    {
+      "area": "Kakindu Stadium",
+      "postcode": 20017
+    },
+    {
+      "area": "Kamuli District Headquarters",
+      "postcode": 20018
+    },
+    {
+      "area": "Kamuli Municipal Council",
+      "postcode": 20019
+    },
+    {
+      "area": "Busitema University Namasagali Campus",
+      "postcode": 20020
+    },
+    {
+      "area": "Kamuli Sugar Factory",
+      "postcode": 20021
+    },
+    {
+      "area": "Buyende District Headquarters",
+      "postcode": 20022
+    },
+    {
+      "area": "Kagulu Hills",
+      "postcode": 20023
+    },
+    {
+      "area": "Kakkoge- Kikaaya Landing Site",
+      "postcode": 20024
+    },
+    {
+      "area": "Kasozi Landing Site",
+      "postcode": 20025
+    },
+    {
+      "area": "Kaliro District Headquarters",
+      "postcode": 20026
+    },
+    {
+      "area": "Kaliro Sugar Factory",
+      "postcode": 20027
+    },
+    {
+      "area": "Kaliro NTC",
+      "postcode": 20028
+    },
+    {
+      "area": "Buguge Historical Site",
+      "postcode": 20029
+    },
+    {
+      "area": "Zibondo's Palace",
+      "postcode": 20030
+    },
+    {
+      "area": "Pallisa District Headquarters",
+      "postcode": 20031
+    },
+    {
+      "area": "Tirinyi Bridge",
+      "postcode": 20032
+    },
+    {
+      "area": "Butebo District Headquarters",
+      "postcode": 20033
+    },
+    {
+      "area": "Kibuku District Headquarters",
+      "postcode": 20034
+    },
+    {
+      "area": "Budaka District Headquarters",
+      "postcode": 20035
+    },
+    {
+      "area": "Kamonkoli Uganda Clay Limited",
+      "postcode": 20036
+    },
+    {
+      "area": "Mbale District Headquarters",
+      "postcode": 20037
+    },
+    {
+      "area": "Mbale Municipal Council",
+      "postcode": 20038
+    },
+    {
+      "area": "Mbale Referral Hospital",
+      "postcode": 20039
+    },
+    {
+      "area": "Islamic University in Uganda",
+      "postcode": 20040
+    },
+    {
+      "area": "Maluku Prisons",
+      "postcode": 20041
+    },
+    {
+      "area": "Wanale Hill",
+      "postcode": 20042
+    },
+    {
+      "area": "Mbale Resort Hotel",
+      "postcode": 20043
+    },
+    {
+      "area": "Mt Elgon National Park",
+      "postcode": 20044
+    },
+    {
+      "area": "Wanale Forest Reserve",
+      "postcode": 20045
+    },
+    {
+      "area": "Bufumbo Forest Reserve",
+      "postcode": 20046
+    },
+    {
+      "area": "Semei Kakungulu Tombs",
+      "postcode": 20047
+    },
+    {
+      "area": "Sisi Falls",
+      "postcode": 20048
+    },
+    {
+      "area": "Simu Falls",
+      "postcode": 20049
+    },
+    {
+      "area": "Mbale Cathedral",
+      "postcode": 20050
+    },
+    {
+      "area": "Sironko District Headquarters",
+      "postcode": 20051
+    },
+    {
+      "area": "Bududda District Headquarters",
+      "postcode": 20052
+    },
+    {
+      "area": "Namisindwa District Headquarters",
+      "postcode": 20053
+    },
+    {
+      "area": "Lwakhakha Border Point",
+      "postcode": 20054
+    },
+    {
+      "area": "Manafwa District Headquarters",
+      "postcode": 20055
+    },
+    {
+      "area": "Manafwa Bridge",
+      "postcode": 20056
+    },
+    {
+      "area": "Tororo District Headquarters",
+      "postcode": 20057
+    },
+    {
+      "area": "Tororo Municipal Council",
+      "postcode": 20058
+    },
+    {
+      "area": "Tororo Cement Factory",
+      "postcode": 20059
+    },
+    {
+      "area": "Tororo Rock",
+      "postcode": 20060
+    },
+    {
+      "area": "Osukulu Hills",
+      "postcode": 20061
+    },
+    {
+      "area": "Golf Course",
+      "postcode": 20062
+    },
+    {
+      "area": "Rubongi Barracks",
+      "postcode": 20063
+    },
+    {
+      "area": "Tororo Railway Station",
+      "postcode": 20064
+    },
+    {
+      "area": "Hima Cement Factory",
+      "postcode": 20065
+    },
+    {
+      "area": "Malaba Border Point",
+      "postcode": 20066
+    },
+    {
+      "area": "Rock Hotel",
+      "postcode": 20067
+    },
+    {
+      "area": "Roman Catholic Archdiocese of Tororo",
+      "postcode": 20068
+    },
+    {
+      "area": "King George VI Stadium",
+      "postcode": 20069
+    },
+    {
+      "area": "Tororo General Hospital",
+      "postcode": 20070
+    },
+    {
+      "area": "Busia District Headquarters",
+      "postcode": 20071
+    },
+    {
+      "area": "Busia Border Point",
+      "postcode": 20072
+    },
+    {
+      "area": "Busitema University",
+      "postcode": 20073
+    },
+    {
+      "area": "Busitema Forest",
+      "postcode": 20074
+    },
+    {
+      "area": "Namayingo District Headquarters",
+      "postcode": 20075
+    },
+    {
+      "area": "Matiko Landing Site",
+      "postcode": 20076
+    },
+    {
+      "area": "Mayuge District Headquarters",
+      "postcode": 20077
+    },
+    {
+      "area": "Mayuge Sugar Factory",
+      "postcode": 20078
+    },
+    {
+      "area": "Bufulubi Prisons",
+      "postcode": 20079
+    },
+    {
+      "area": "Buluuba Hospital",
+      "postcode": 20080
+    },
+    {
+      "area": "Bwonha Landing Site",
+      "postcode": 20081
+    },
+    {
+      "area": "Bishop Hannington Shrine",
+      "postcode": 20082
+    },
+    {
+      "area": "Presidential Farm Kityerera",
+      "postcode": 20083
+    },
+    {
+      "area": "Bugiri District Headquarters",
+      "postcode": 20084
+    },
+    {
+      "area": "Bugiri Municipal Council",
+      "postcode": 20085
+    },
+    {
+      "area": "Bugiri Hospital",
+      "postcode": 20086
+    },
+    {
+      "area": "Kibimba Rice Scheme",
+      "postcode": 20087
+    },
+    {
+      "area": "Iganga District Headquarters",
+      "postcode": 20088
+    },
+    {
+      "area": "Iganga Municipal Council",
+      "postcode": 20089
+    },
+    {
+      "area": "Iganga Hospital Nakavule",
+      "postcode": 20090
+    },
+    {
+      "area": "Busoga University",
+      "postcode": 20091
+    },
+    {
+      "area": "Central Busoga Diocese",
+      "postcode": 20092
+    },
+    {
+      "area": "Bugweri District Headquarters",
+      "postcode": 20093
+    },
+    {
+      "area": "Luuka District Headquarters",
+      "postcode": 20094
+    },
+    {
+      "area": "Namutumba District Headquarters",
+      "postcode": 20095
+    },
+    {
+      "area": "Butaleja District Headquarters",
+      "postcode": 20096
+    },
+    {
+      "area": "Doho Rice Scheme",
+      "postcode": 20097
+    },
+    {
+      "area": "Mpologoma River Bridge",
+      "postcode": 20098
+    },
+    {
+      "area": "Busolwe Hospital",
+      "postcode": 20099
+    }
+  ]
+}
